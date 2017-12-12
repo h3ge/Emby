@@ -293,14 +293,14 @@ namespace MediaBrowser.Server.Mono
         }
     }
 
-    class NoCheckCertificatePolicy : ICertificatePolicy
-    {
-        public bool CheckValidationResult(ServicePoint srvPoint, X509Certificate certificate, WebRequest request, int certificateProblem)
-        {
-            return true;
-        }
-    }
-
+    // class NoCheckCertificatePolicy : ICertificatePolicy
+    // {
+    //     public bool CheckValidationResult(ServicePoint srvPoint, X509Certificate certificate, WebRequest request, int certificateProblem)
+    //     {
+    //         return true;
+    //     }
+    // }
+    
     public class MonoEnvironmentInfo : EnvironmentInfo
     {
         public override string GetUserId()

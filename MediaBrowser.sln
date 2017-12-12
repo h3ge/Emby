@@ -34,12 +34,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBrowser.Model", "Media
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBrowser.WebDashboard", "MediaBrowser.WebDashboard\MediaBrowser.WebDashboard.csproj", "{5624B7B5-B5A7-41D8-9F10-CC5611109619}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBrowser.Tests", "MediaBrowser.Tests\MediaBrowser.Tests.csproj", "{E22BFD35-0FCD-4A85-978A-C22DCD73A081}"
-EndProject
+# Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBrowser.Tests", "MediaBrowser.Tests\MediaBrowser.Tests.csproj", "{E22BFD35-0FCD-4A85-978A-C22DCD73A081}"
+# EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBrowser.Providers", "MediaBrowser.Providers\MediaBrowser.Providers.csproj", "{442B5058-DCAF-4263-BB6A-F21E31120A1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBrowser.ServerApplication", "MediaBrowser.ServerApplication\MediaBrowser.ServerApplication.csproj", "{94ADE4D3-B7EC-45CD-A200-CC469433072B}"
-EndProject
+# Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBrowser.ServerApplication", "MediaBrowser.ServerApplication\MediaBrowser.ServerApplication.csproj", "{94ADE4D3-B7EC-45CD-A200-CC469433072B}"
+# EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSubtitlesHandler", "OpenSubtitlesHandler\OpenSubtitlesHandler.csproj", "{4A4402D4-E910-443B-B8FC-2C18286A2CA0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaBrowser.XbmcMetadata", "MediaBrowser.XbmcMetadata\MediaBrowser.XbmcMetadata.csproj", "{23499896-B135-4527-8574-C26E926EA99E}"
